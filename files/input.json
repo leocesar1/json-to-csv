@@ -1,0 +1,17 @@
+{
+    "obj": {
+        "text": "hello",
+        "array": [
+            {
+                "name": "obj1"
+            },
+            {
+                "name": "obj2",
+                "array_of_numbers": [1,2,3]
+            },
+            {
+                "name": "obj3"
+            }
+        ]
+    }
+}
