@@ -1,8 +1,0 @@
-path,example,type
-obj - > text,hello,String
-obj - > array[0] - > name,obj1,String
-obj - > array[1] - > name,obj2,String
-obj - > array[1] - > array_of_numbers[0],1,Integer
-obj - > array[1] - > array_of_numbers[1],2,Integer
-obj - > array[1] - > array_of_numbers[2],3,Integer
-obj - > array[2] - > name,obj3,String
